@@ -4,7 +4,7 @@
     justify-content: space-between;
     align-items: center;
     padding: 15px 20px;
-    background-color: #d75e70;
+    background-color: #ba355c;
     font-family: 'Helvetica Neue', sans-serif;
 }
 
@@ -60,7 +60,7 @@ p {
 }
 
 p a {
-    color: #d75e70;
+    color: #ba355c;
     text-decoration: none;
     padding: 12px;
 }
@@ -68,7 +68,7 @@ p a {
 p a:hover, a:focus {
     color:#fdf57e;
     text-decoration: underline double;
-    background-color: #d75e70;
+    background-color: #ba355c;
     padding: 12px;
     border-radius: 10px;
 }
